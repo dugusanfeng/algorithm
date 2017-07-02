@@ -1,3 +1,14 @@
+/* global process */
+/* global __dirname */
+/*******************************************************************************
+ * Copyright (c) 2016 arxanfintech.com
+ *
+ * All rights reserved.
+ *
+ * Contributors:
+ *   Steven Xu (steven@arxanfintech.com)
+ *******************************************************************************/
+
 function methodNum(n) {
 	if (n < 0) {
 		return 'number: ' + n + ' is a negative number';
